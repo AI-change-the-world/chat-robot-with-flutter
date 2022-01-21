@@ -1,0 +1,7 @@
+jieba==0.42.1
+peewee==3.14.8
+Flask==1.1.2
+kashgari==1.1.5
+Keras==2.4.3
+Flask_Cors==3.0.10
+tensorflow==1.15.0
